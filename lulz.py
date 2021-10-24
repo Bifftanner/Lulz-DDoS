@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------------------------
-# Sadboy - iDDoS Priv8 Tool
+# lulz - iDDoS Priv8 Tool
 #
 # The iDDoS Protocol is the most massive type of attack
-# This tool can tangodown nasa and more gov websites
+# This tool can take down nasa and more gov websites
 # 
 #
 # author : HACKER , version 1.0
